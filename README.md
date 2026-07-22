@@ -1,4 +1,6 @@
+
 # Sallah-Call-Center-Analysis
+<img width="1280" height="622" alt="photo_5942726289775070721_y" src="https://github.com/user-attachments/assets/841cbe76-ce15-44d5-a0fc-c8ae9fe33891" />
 This project analyzes call center operations using Python and Power BI to monitor business performance and customer service efficiency.
 Sallah Call Center Analysis
 Project Overview
